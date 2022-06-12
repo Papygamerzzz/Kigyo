@@ -1,1 +1,1 @@
-worker: python tg_bot
+worker: python3 Phub.py

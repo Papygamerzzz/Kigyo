@@ -1,64 +1,35 @@
-![Enterprise](https://i.imgur.com/IYqzviU.jpg)
-# Kigyō bot // @KigyoRobot
+<p align="center"><img src="https://i.postimg.cc/JhJywSMF/logo7-10-14120.png" style="width:100%"></p>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
+warning !, this is a telegram bot that contains adult content, access restrictions for this bot will be implemented soon, please don't report this repository and the example bot if you keep want to use it.
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=levina-lab&repo=PornHub&theme=dark)
 
-![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
-![Issues](https://img.shields.io/github/issues/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Forks](https://img.shields.io/github/forks/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Stars](https://img.shields.io/github/stars/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![LICENSE](https://img.shields.io/github/license/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Contributors](https://img.shields.io/github/contributors/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)
-![Repository Size](https://img.shields.io/github/repo-size/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)</br>
+### PORNHUB DOWNLOADER BOT
 
+Simply way to deploy this bot, go deploy on heroku.
 
-[![Join Support!](https://img.shields.io/badge/Support%20Chat-EagleUnion-red)](https://t.me/YorktownEagleUnion)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Dank-del/EnterpriseALRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
+<b>
+<a href="https://heroku.com/deploy?template=https://github.com/levina-lab/PornHub"><img src="https://img.shields.io/badge/DEPLOY ON HEROKU-Canary?style=badge&logo=heroku"width="310" height="50"/></a>
+</b>
 
+### FIND US ON TELEGRAM !!
 
-A modular telegram Python bot running on python3 with an sqlalchemy database.
-
-Originally a marie fork - Kigyō has evolved further and was built to be more useful for Anime Chats.
-
-Can be found on telegram as [Kigyō](https://t.me/kigyorobot).
-
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+<a href="https://t.me/dlwrml"><img src="https://img.shields.io/badge/BOT OWNER-blue?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/gcsupportbots"><img src="https://img.shields.io/badge/GROUP SUPPORT-black?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/CHANNEL-gold?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/npornhubdlbot"><img src="https://img.shields.io/badge/EXAMPLE BOT-magenta?style=for-the-badge&logo=Telegram" /></a>
 
 
+### COMMAND FOR BOT [@PornHubBot](https://t.me/npornhubdlbot)
+```
+start - Start the bot
+repo - Give you a source code
+help - Guide for use
+```
 
-## Setting up the bot (Read this before trying to use!):
-
-
-# How to setup
-
-- `git clone https://github.com/AnimeKaizoku/EnterpriseALRobot`
-- `cd EnterpriseALRobot`
-- `cp sample_config.ini config.ini`
-- *Fill in all the vars*
-- `pip3 install -U -r requirements.txt`
-- *And finally* `python3 -m tg_bot`
-
-*Enjoy!*
+### CREDITS 💖
+  
+* [LEVINA-LAB](http://github.com/levina-lab)
+* [KEN KAN](https://github.com/kenkannih)
 
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Eagle Union](https://t.me/YorktownEagleUnion)  
-
-## Credits
-The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just reamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
-
-
-Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownEagleUnion) or simply submit a pull request on the readme.
-
-
--------------------------------------------------------------------------------------
-
-
-<a href="http://u.fsf.org/16e"><img src="https://static.fsf.org/nosvn/images/badges/fsfs_icons_red-bg.png" alt="Free Software, Free Society"></a>   
-
-*Kigyo is free and open source software and supports the right to read, distribute and repair.*
-
-
-![Alt](https://repobeats.axiom.co/api/embed/d2897eb81239aab92e1394b6d833b19c8dbac24c.svg "Repobeats analytics image")
